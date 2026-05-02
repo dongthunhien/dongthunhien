@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br>
+<br><br>
 
 ---
 
@@ -59,10 +59,8 @@
 <br>
 
 <p align="center">
-  <img src="YOUR_IMG_LINK_1" width="220"/>
-  <img src="YOUR_IMG_LINK_2" width="220"/>
-  <img src="YOUR_IMG_LINK_3" width="220"/>
-  <img src="YOUR_IMG_LINK_4" width="220"/>
+  <img src="LINK_HR_1" width="220"/>
+  <img src="LINK_HR_2" width="220"/>
 </p>
 
 </details>
@@ -73,19 +71,24 @@
 <br>
 
 <p align="center">
-  <img src="YOUR_UDEMY_1" width="240"/>
-  <img src="YOUR_UDEMY_2" width="240"/>
+  <img src="LINK_UDEMY_1" width="240"/>
 </p>
 
 </details>
 
 <details>
-<summary><b>University Certificates</b></summary>
+<summary><b>University Certificate</b></summary>
 
 <br>
 
 <p align="center">
-  <img src="YOUR_UNI_CERT" width="260"/>
+  <img src="LINK_CERT_PNG" width="400"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dongthunhien/dongthunhien/blob/main/certificate.pdf">
+    📄 View Full Certificate (PDF)
+  </a>
 </p>
 
 </details>
