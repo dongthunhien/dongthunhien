@@ -6,7 +6,7 @@
 - Building real-world data projects  
 - Open to internship opportunities  
 
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <br><br>
 
@@ -27,16 +27,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongthunhien&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -59,7 +51,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dongthunhien/dongthunhien/main/cert-data-science.png" width="450"/>
+  <img src="https://raw.githubusercontent.com/dongthunhien/dongthunhien/main/cert-data-science.png" width="420"/>
 </p>
 
 <p align="center">
