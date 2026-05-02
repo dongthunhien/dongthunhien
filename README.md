@@ -1,19 +1,14 @@
-Hello 👋 I am Thunhien
+# Hi 👋 I'm Thunhien
 
-## 👨‍💻 About Me
-I am passionate about Data Science / Information Technology, enthusiastic about data and machine learning.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Machine+Learning;Python+Developer)
 
 ## 🧠 Skills
-- C/C#/Python, SQL
-- Data analysis
-- Power BI
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
-## 📊 Projects
-- Building a data warehouse for business activity analysis
-- Visual data dashboards
-- Web programming
-- Principles of image creation / Image classification
-- Developing AI Chatbots
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&theme=tokyonight)
 
-## 📫 Contact
-- Email: thunhien206@gmail.com
+![GitHub Streak](https://streak-stats.demolab.com/?user=dongthunhien&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=tokyonight)
