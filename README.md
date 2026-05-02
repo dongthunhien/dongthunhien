@@ -1,4 +1,4 @@
-## Thunhien
+## DongThuNhien
 
 - Aspiring Data Analyst / Data Science Intern  
 - Passionate about data analysis, machine learning, and business insights  
@@ -54,39 +54,16 @@
 ## 🏆 Certificates
 
 <details>
-<summary><b>HackerRank Certificates</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="LINK_HR_1" width="220"/>
-  <img src="LINK_HR_2" width="220"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Udemy Certificates</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="LINK_UDEMY_1" width="240"/>
-</p>
-
-</details>
-
-<details>
 <summary><b>University Certificate</b></summary>
 
 <br>
 
 <p align="center">
-  <img src="LINK_CERT_PNG" width="400"/>
+  <img src="https://raw.githubusercontent.com/dongthunhien/dongthunhien/main/cert-data-science.png" width="450"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dongthunhien/dongthunhien/blob/main/certificate.pdf">
+  <a href="https://github.com/dongthunhien/dongthunhien/blob/main/Certificate%20of%20Completion%20–%20Introduction%20to%20Data%20Science%20and%20Artificial%20Intelligence%20–%20NEU.pdf">
     📄 View Full Certificate (PDF)
   </a>
 </p>
