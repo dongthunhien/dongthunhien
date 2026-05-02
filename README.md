@@ -1,16 +1,19 @@
-## Hi there 👋
+Hello 👋 I am Thunhien
 
-<!--
-**dongthunhien/dongthunhien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am passionate about Data Science / Information Technology, enthusiastic about data and machine learning.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- C/C#/Python, SQL
+- Data analysis
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Building a data warehouse for business activity analysis
+- Visual data dashboards
+- Web programming
+- Principles of image creation / Image classification
+- Developing AI Chatbots
+
+## 📫 Contact
+- Email: thunhien206@gmail.com
