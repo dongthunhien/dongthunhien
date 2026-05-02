@@ -1,14 +1,26 @@
 # Hi 👋 I'm Thunhien
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Scientist;Machine+Learning;Python+Developer)
+### 🚀 Data Scientist | Data Analyst
+
+---
 
 ## 🧠 Skills
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&theme=tokyonight"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dongthunhien&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dongthunhien&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=tokyonight"/>
+</p>
