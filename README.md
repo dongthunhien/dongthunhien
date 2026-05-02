@@ -2,46 +2,97 @@
 
 - Aspiring Data Analyst / Data Science Intern  
 - Passionate about data analysis, machine learning, and business insights  
-- Working with Python, SQL, Power BI, and basic ML tools  
-- Building real-world projects to improve analytical thinking  
+- Working with Python, SQL, Power BI  
+- Building real-world data projects  
 - Open to internship opportunities  
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <br>
 
-## Technologies and Tools
+---
+
+## 🧠 Technologies and Tools
 
 | Category | Tech Stack |
 |---|---|
 | Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) |
 | Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) |
+| Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | Machine Learning | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
-<br>
+---
 
-## Featured Projects
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongthunhien&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| Customer Churn Prediction | Predict customers likely to leave using machine learning | Python, Pandas, Scikit-learn |
-| Sales Dashboard | Analyze sales trends and KPIs with dashboard | Power BI, Excel |
-| Sentiment Analysis | Analyze customer reviews using NLP basics | Python |
+| Customer Churn Prediction | Predict customers likely to leave using ML | Python, Pandas, Scikit-learn |
+| Sales Dashboard | Analyze KPIs and sales trends | Power BI |
+| Sentiment Analysis | Analyze customer reviews | Python |
+
+---
+
+## 🏆 Certificates
+
+<details>
+<summary><b>HackerRank Certificates</b></summary>
 
 <br>
-
-## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=default&hide_border=true" />
+  <img src="YOUR_IMG_LINK_1" width="220"/>
+  <img src="YOUR_IMG_LINK_2" width="220"/>
+  <img src="YOUR_IMG_LINK_3" width="220"/>
+  <img src="YOUR_IMG_LINK_4" width="220"/>
 </p>
+
+</details>
+
+<details>
+<summary><b>Udemy Certificates</b></summary>
 
 <br>
 
-## Connect with me
+<p align="center">
+  <img src="YOUR_UDEMY_1" width="240"/>
+  <img src="YOUR_UDEMY_2" width="240"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>University Certificates</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="YOUR_UNI_CERT" width="260"/>
+</p>
+
+</details>
+
+---
+
+## 📫 Connect with me
 
 <p>
   <a href="https://github.com/dongthunhien">
@@ -55,8 +106,8 @@
   </a>
 </p>
 
-<br>
+---
 
-## Quote
+## 💡 Quote
 
 > Stay consistent. Small steps every day lead to big results.
