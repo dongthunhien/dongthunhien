@@ -1,4 +1,4 @@
-## DongThuNhien
+## 👋 Hi, I'm Thu Nhien
 
 - Aspiring Data Analyst / Data Science Intern  
 - Passionate about data analysis, machine learning, and business insights  
@@ -27,12 +27,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dongthunhien&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongthunhien&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
@@ -45,7 +40,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| Customer Churn Prediction | Predict customers likely to leave using ML | Python, Pandas, Scikit-learn |
+| E-commerce Website | Front-end website with product pages and cart | HTML, CSS, JS |
 | Sales Dashboard | Analyze KPIs and sales trends | Power BI |
 | Sentiment Analysis | Analyze customer reviews | Python |
 
