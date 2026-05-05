@@ -6,9 +6,9 @@
 - Building real-world data projects  
 - Open to internship opportunities  
 
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br><br>
+<br clear="right"/>
 
 ---
 
@@ -16,7 +16,7 @@
 
 | Category | Tech Stack |
 |---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 | Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | Machine Learning | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
@@ -24,22 +24,23 @@
 
 ---
 
-## ## 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=dongthunhien&theme=github-dark-blue&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dongthunhien&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| E-commerce Website | Front-end website with product pages and cart | HTML, CSS, JS |
+| [E-commerce Website](https://github.com/dongthunhien/ecommerce-website) | Front-end website with product pages and cart | HTML, CSS, JS |
 | Sales Dashboard | Analyze KPIs and sales trends | Power BI |
 | Sentiment Analysis | Analyze customer reviews | Python |
 
@@ -68,7 +69,7 @@
 
 ## 📫 Connect with me
 
-<p>
+<p align="center">
   <a href="https://github.com/dongthunhien">
     <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=flat&logo=github&logoColor=white" />
   </a>
