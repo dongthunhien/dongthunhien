@@ -1,41 +1,33 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
-
 ## 👋 Hi, I'm Thu Nhien
 
-- Aspiring **Data Analyst / Data Science Intern**  
-- Passionate about **data, ML, and business insights**  
-- Skilled in **Python, SQL, Power BI**  
+- Aspiring Data Analyst / Data Science Intern  
+- Passionate about data analysis, machine learning, and business insights  
+- Working with Python, SQL, Power BI  
 - Building real-world data projects  
 - Open to internship opportunities  
 
-      </td>
-      <td width="40%">
-        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br><br>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technologies and Tools
 
-| Category | Tech |
+| Category | Tech Stack |
 |---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-| Data | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) |
+| Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 | Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
-| ML | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| Machine Learning | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
@@ -44,45 +36,53 @@
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| [E-commerce Website](https://github.com/dongthunhien/ecommerce-website) | Front-end shop with cart system |
-| Sales Dashboard | Business KPI analysis (Power BI) |
-| Sentiment Analysis | NLP on customer reviews |
+| Project | Description | Tech |
+|---|---|---|
+| E-commerce Website | Front-end website with product pages and cart | HTML, CSS, JS |
+| Sales Dashboard | Analyze KPIs and sales trends | Power BI |
+| Sentiment Analysis | Analyze customer reviews | Python |
 
 ---
 
-## 🏆 Certificate
+## 🏆 Certificates
+
+<details>
+<summary><b>University Certificate</b></summary>
+
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dongthunhien/dongthunhien/main/cert-data-science.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/dongthunhien/dongthunhien/main/cert-data-science.png" width="450"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/dongthunhien/dongthunhien/blob/main/Certificate%20of%20Completion%20–%20Introduction%20to%20Data%20Science%20and%20Artificial%20Intelligence%20–%20NEU.pdf">
-    📄 View Certificate
+    📄 View Full Certificate (PDF)
   </a>
 </p>
 
+</details>
+
 ---
 
-## 📫 Contact
+## 📫 Connect with me
 
-<p align="center">
+<p>
   <a href="https://github.com/dongthunhien">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nhien-dong-1951b82a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nhien%20Dong-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thunhien206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-thunhien206@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 💡 Quote
+
 > Stay consistent. Small steps every day lead to big results.
