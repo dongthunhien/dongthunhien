@@ -1,18 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thu Nhien</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Science+Intern;Python+%7C+SQL+%7C+Power+BI;Turning+data+into+insights" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dongthunhien&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 👨‍💻 About Me
+## 👋 Hi, I'm Thu Nhien
 
 - Aspiring Data Analyst / Data Science Intern  
 - Passionate about data analysis, machine learning, and business insights  
@@ -20,22 +6,22 @@
 - Building real-world data projects  
 - Open to internship opportunities  
 
-<br clear="right"/>
+<img align="right" alt="coding" width="310" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br><br>
 
 ---
 
 ## 🧠 Technologies and Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+| Category | Tech Stack |
+|---|---|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
+| Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| Visualization | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) |
+| Machine Learning | ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| Web | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
 ---
 
@@ -86,18 +72,18 @@
 
 <p align="center">
   <a href="https://github.com/dongthunhien">
-    <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nhien-dong-1951b82a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nhien%20Dong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nhien%20Dong-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thunhien206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thunhien206@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-thunhien206@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Stay consistent. Small steps every day lead to big results.</i>
-</p>
+## 💡 Quote
+
+> Stay consistent. Small steps every day lead to big results.
