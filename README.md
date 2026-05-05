@@ -6,9 +6,9 @@
 - Building real-world data projects  
 - Open to internship opportunities  
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br clear="right"/>
+<br><br>
 
 ---
 
@@ -24,10 +24,10 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=dongthunhien&theme=github-dark-blue&hide_border=true&border_radius=10" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [E-commerce Website](https://github.com/dongthunhien/ecommerce-website) | Front-end website with product pages and cart | HTML, CSS, JS |
+| E-commerce Website | Front-end website with product pages and cart | HTML, CSS, JS |
 | Sales Dashboard | Analyze KPIs and sales trends | Power BI |
 | Sentiment Analysis | Analyze customer reviews | Python |
 
@@ -69,7 +69,7 @@
 
 ## 📫 Connect with me
 
-<p align="center">
+<p>
   <a href="https://github.com/dongthunhien">
     <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=flat&logo=github&logoColor=white" />
   </a>
