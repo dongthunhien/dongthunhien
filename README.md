@@ -25,7 +25,8 @@
 
 ---
 
-## 📊 GitHub Activity
+
+## GitHub Statistics
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dongthunhien&theme=github-dark-blue&hide_border=true" />
@@ -37,17 +38,17 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [E-commerce Website](https://github.com/dongthunhien/ecommerce-website) | Front-end website with product pages and cart | HTML, CSS, JavaScript |
+| E-commerce Website | Front-end website with product pages and cart | HTML, CSS, JS |
 | Sales Dashboard | Analyze KPIs and sales trends | Power BI |
 | Sentiment Analysis | Analyze customer reviews | Python |
 
 ---
 
-## 🏆 Certificates
+## Certificates
 
 <details>
 <summary><b>University Certificate</b></summary>
@@ -60,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/dongthunhien/dongthunhien/blob/main/Certificate%20of%20Completion%20–%20Introduction%20to%20Data%20Science%20and%20Artificial%20Intelligence%20–%20NEU.pdf">
-    📄 View Full Certificate PDF
+    📄 View Full Certificate (PDF)
   </a>
 </p>
 
@@ -70,7 +71,7 @@
 
 ## 📫 Connect with me
 
-<p align="center">
+<p>
   <a href="https://github.com/dongthunhien">
     <img src="https://img.shields.io/badge/GitHub-dongthunhien-181717?style=flat&logo=github&logoColor=white" />
   </a>
@@ -87,3 +88,5 @@
 ## 💡 Quote
 
 > Stay consistent. Small steps every day lead to big results.
+---
+
