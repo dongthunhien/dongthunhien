@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Technologies and Tools
+## 🧠 Technologies and Tool
 
 | Category | Tech Stack |
 |---|---|
